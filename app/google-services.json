@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1094803340966",
+    "project_id": "pluralsighttestfire",
+    "storage_bucket": "pluralsighttestfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094803340966:android:5c04919c7255ab23ff3e67",
+        "android_client_info": {
+          "package_name": "com.tarek.pluralsighttestfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094803340966-ib7fus5ip3km1mkll4ch3p15jksk854g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tarek.pluralsighttestfire",
+            "certificate_hash": "8f1067b104ffffb0613eca2b8d0d38533ab4cfc6"
+          }
+        },
+        {
+          "client_id": "1094803340966-7qr37dd9dfsjfd0cnpbbshf0v86gcajl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChb-m9aBeWgrPaKhHonnxi5HZ_2vglXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094803340966-7qr37dd9dfsjfd0cnpbbshf0v86gcajl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
